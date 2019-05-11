@@ -1,0 +1,26 @@
+C:\Users\Noi\Desktop\ai_project\ai_project\bin\Release\ai_project.exe
+C:\Users\Noi\Desktop\ai_project\ai_project\bin\Release\ai_project.pdb
+C:\Users\Noi\Desktop\ai_project\ai_project\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Noi\Desktop\ai_project\ai_project\obj\x86\Release\ai_project.Form1.resources
+C:\Users\Noi\Desktop\ai_project\ai_project\obj\x86\Release\ai_project.Properties.Resources.resources
+C:\Users\Noi\Desktop\ai_project\ai_project\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Noi\Desktop\ai_project\ai_project\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Noi\Desktop\ai_project\ai_project\obj\x86\Release\ai_project.exe
+C:\Users\Noi\Desktop\ai_project\ai_project\obj\x86\Release\ai_project.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Greedy Best First Search\visual_c_sharp\ai_project\obj\x86\Release\ai_project.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Greedy Best First Search\visual_c_sharp\ai_project\obj\x86\Release\ai_project.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Greedy Best First Search\visual_c_sharp\ai_project\bin\Release\ai_project.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Greedy Best First Search\visual_c_sharp\ai_project\bin\Release\ai_project.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Greedy Best First Search\visual_c_sharp\ai_project\obj\x86\Release\ResolveAssemblyReference.cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Greedy Best First Search\visual_c_sharp\ai_project\obj\x86\Release\ai_project.Form1.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Greedy Best First Search\visual_c_sharp\ai_project\obj\x86\Release\ai_project.Properties.Resources.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Greedy Best First Search\visual_c_sharp\ai_project\obj\x86\Release\GenerateResource.read.1.tlog
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Greedy Best First Search\visual_c_sharp\ai_project\obj\x86\Release\GenerateResource.write.1.tlog
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Greedy Best First Search\visual_c_sharp\ai_project\obj\x86\Release\ai_project.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Greedy Best First Search\visual_c_sharp\ai_project\obj\x86\Release\ai_project.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Greedy Best First Search\visual_c_sharp\ai_project\bin\Release\ai_project.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Greedy Best First Search\visual_c_sharp\ai_project\bin\Release\ai_project.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Greedy Best First Search\visual_c_sharp\ai_project\obj\x86\Release\ai_project.csprojResolveAssemblyReference.cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Greedy Best First Search\visual_c_sharp\ai_project\obj\x86\Release\ai_project.Form1.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Greedy Best First Search\visual_c_sharp\ai_project\obj\x86\Release\ai_project.Properties.Resources.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Greedy Best First Search\visual_c_sharp\ai_project\obj\x86\Release\ai_project.csproj.GenerateResource.Cache

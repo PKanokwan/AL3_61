@@ -1,0 +1,9 @@
+C:\Users\BlackGem\Documents\Visual Studio 2012\Projects\Genetic1\Genetic1\bin\Release\Genetic1.exe.config
+C:\Users\BlackGem\Documents\Visual Studio 2012\Projects\Genetic1\Genetic1\bin\Release\Genetic1.exe
+C:\Users\BlackGem\Documents\Visual Studio 2012\Projects\Genetic1\Genetic1\bin\Release\Genetic1.pdb
+C:\Users\BlackGem\Documents\Visual Studio 2012\Projects\Genetic1\Genetic1\obj\Release\Genetic1.csprojResolveAssemblyReference.cache
+C:\Users\BlackGem\Documents\Visual Studio 2012\Projects\Genetic1\Genetic1\obj\Release\Genetic1.Form1.resources
+C:\Users\BlackGem\Documents\Visual Studio 2012\Projects\Genetic1\Genetic1\obj\Release\Genetic1.Properties.Resources.resources
+C:\Users\BlackGem\Documents\Visual Studio 2012\Projects\Genetic1\Genetic1\obj\Release\Genetic1.csproj.GenerateResource.Cache
+C:\Users\BlackGem\Documents\Visual Studio 2012\Projects\Genetic1\Genetic1\obj\Release\Genetic1.exe
+C:\Users\BlackGem\Documents\Visual Studio 2012\Projects\Genetic1\Genetic1\obj\Release\Genetic1.pdb

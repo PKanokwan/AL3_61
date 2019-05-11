@@ -1,0 +1,8 @@
+D:\Work\AI\Project\Alpha_Bata_Pruning\Alpha_Bata_Pruning\bin\Debug\Alpha_Bata_Pruning.exe
+D:\Work\AI\Project\Alpha_Bata_Pruning\Alpha_Bata_Pruning\bin\Debug\Alpha_Bata_Pruning.pdb
+D:\Work\AI\Project\Alpha_Bata_Pruning\Alpha_Bata_Pruning\obj\x86\Debug\Alpha_Bata_Pruning.Form1.resources
+D:\Work\AI\Project\Alpha_Bata_Pruning\Alpha_Bata_Pruning\obj\x86\Debug\Alpha_Bata_Pruning.Properties.Resources.resources
+D:\Work\AI\Project\Alpha_Bata_Pruning\Alpha_Bata_Pruning\obj\x86\Debug\Alpha_Bata_Pruning.csproj.GenerateResource.Cache
+D:\Work\AI\Project\Alpha_Bata_Pruning\Alpha_Bata_Pruning\obj\x86\Debug\Alpha_Bata_Pruning.exe
+D:\Work\AI\Project\Alpha_Bata_Pruning\Alpha_Bata_Pruning\obj\x86\Debug\Alpha_Bata_Pruning.pdb
+D:\Work\AI\Project\Alpha_Bata_Pruning\Alpha_Bata_Pruning\obj\x86\Debug\Alpha_Bata_Pruning.csprojResolveAssemblyReference.cache

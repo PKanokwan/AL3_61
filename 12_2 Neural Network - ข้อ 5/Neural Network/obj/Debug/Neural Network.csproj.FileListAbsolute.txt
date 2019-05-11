@@ -1,0 +1,9 @@
+C:\Users\Kiki Kung\Desktop\Neural Network\Neural Network\bin\Debug\Neural Network.exe.config
+C:\Users\Kiki Kung\Desktop\Neural Network\Neural Network\bin\Debug\Neural Network.exe
+C:\Users\Kiki Kung\Desktop\Neural Network\Neural Network\bin\Debug\Neural Network.pdb
+C:\Users\Kiki Kung\Desktop\Neural Network\Neural Network\obj\Debug\Neural Network.csprojResolveAssemblyReference.cache
+C:\Users\Kiki Kung\Desktop\Neural Network\Neural Network\obj\Debug\Neural_Network.Form1.resources
+C:\Users\Kiki Kung\Desktop\Neural Network\Neural Network\obj\Debug\Neural_Network.Properties.Resources.resources
+C:\Users\Kiki Kung\Desktop\Neural Network\Neural Network\obj\Debug\Neural Network.csproj.GenerateResource.Cache
+C:\Users\Kiki Kung\Desktop\Neural Network\Neural Network\obj\Debug\Neural Network.exe
+C:\Users\Kiki Kung\Desktop\Neural Network\Neural Network\obj\Debug\Neural Network.pdb

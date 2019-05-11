@@ -1,0 +1,36 @@
+c:\users\takeab\documents\visual studio 2010\Projects\A Star Search\A Star Search\bin\Debug\A Star Search.exe
+c:\users\takeab\documents\visual studio 2010\Projects\A Star Search\A Star Search\bin\Debug\A Star Search.pdb
+c:\users\takeab\documents\visual studio 2010\Projects\A Star Search\A Star Search\obj\x86\Debug\A_Star_Search.Form1.resources
+c:\users\takeab\documents\visual studio 2010\Projects\A Star Search\A Star Search\obj\x86\Debug\A_Star_Search.Properties.Resources.resources
+c:\users\takeab\documents\visual studio 2010\Projects\A Star Search\A Star Search\obj\x86\Debug\A Star Search.csproj.GenerateResource.Cache
+c:\users\takeab\documents\visual studio 2010\Projects\A Star Search\A Star Search\obj\x86\Debug\A Star Search.exe
+c:\users\takeab\documents\visual studio 2010\Projects\A Star Search\A Star Search\obj\x86\Debug\A Star Search.pdb
+C:\Users\Takeab\Documents\Visual Studio 2010\Projects\A Star Search\A Star Search\obj\x86\Debug\A Star Search.csprojResolveAssemblyReference.cache
+C:\Users\Takeab\Documents\Visual Studio 2010\Projects\A Star Search\A Star Search\obj\x86\Debug\A_Star_Search.Form2.resources
+D:\A Star Search\A Star Search\A Star Search\obj\x86\Debug\A Star Search.exe
+D:\A Star Search\A Star Search\A Star Search\obj\x86\Debug\A Star Search.pdb
+D:\A Star Search\A Star Search\A Star Search\obj\x86\Debug\A Star Search.csprojResolveAssemblyReference.cache
+D:\A Star Search\A Star Search\A Star Search\obj\x86\Debug\A_Star_Search.Form1.resources
+D:\A Star Search\A Star Search\A Star Search\obj\x86\Debug\A_Star_Search.Form2.resources
+D:\A Star Search\A Star Search\A Star Search\obj\x86\Debug\A_Star_Search.Properties.Resources.resources
+D:\A Star Search\A Star Search\A Star Search\obj\x86\Debug\A Star Search.csproj.GenerateResource.Cache
+D:\A Star Search\A Star Search\A Star Search\bin\Debug\A Star Search.exe
+D:\A Star Search\A Star Search\A Star Search\bin\Debug\A Star Search.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\A Star Search\A Star Search\A Star Search\obj\x86\Debug\A Star Search.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\A Star Search\A Star Search\A Star Search\obj\x86\Debug\A Star Search.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\A Star Search\A Star Search\A Star Search\bin\Debug\A Star Search.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\A Star Search\A Star Search\A Star Search\bin\Debug\A Star Search.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\A Star Search\A Star Search\A Star Search\obj\x86\Debug\A_Star_Search.Form1.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\A Star Search\A Star Search\A Star Search\obj\x86\Debug\A_Star_Search.Form2.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\A Star Search\A Star Search\A Star Search\obj\x86\Debug\A_Star_Search.Properties.Resources.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\A Star Search\A Star Search\A Star Search\obj\x86\Debug\A Star Search.csprojResolveAssemblyReference.cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\A Star Search\A Star Search\A Star Search\obj\x86\Debug\A Star Search.csproj.GenerateResource.Cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\6_A Star Search\A Star Search\A Star Search\obj\x86\Debug\A Star Search.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\6_A Star Search\A Star Search\A Star Search\obj\x86\Debug\A Star Search.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\6_A Star Search\A Star Search\A Star Search\bin\Debug\A Star Search.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\6_A Star Search\A Star Search\A Star Search\bin\Debug\A Star Search.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\6_A Star Search\A Star Search\A Star Search\obj\x86\Debug\A Star Search.csprojResolveAssemblyReference.cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\6_A Star Search\A Star Search\A Star Search\obj\x86\Debug\A_Star_Search.Form1.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\6_A Star Search\A Star Search\A Star Search\obj\x86\Debug\A_Star_Search.Form2.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\6_A Star Search\A Star Search\A Star Search\obj\x86\Debug\A_Star_Search.Properties.Resources.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\6_A Star Search\A Star Search\A Star Search\obj\x86\Debug\A Star Search.csproj.GenerateResource.Cache

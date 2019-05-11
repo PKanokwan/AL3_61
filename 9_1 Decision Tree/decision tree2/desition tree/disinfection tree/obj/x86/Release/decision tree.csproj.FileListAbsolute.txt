@@ -1,0 +1,153 @@
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\Form1.resx
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\Form1.cs
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\Form1.Designer.cs
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\disinfection tree.exe
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\disinfection tree.pdb
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\Accord.Controls.dll
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\Accord.dll
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\Accord.MachineLearning.dll
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\Accord.Math.dll
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\Accord.Statistics.dll
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\AForge.dll
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\SlimDX.dll
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\ZedGraph.dll
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\AForge.Math.dll
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\Accord.pdb
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\Accord.xml
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\Accord.Controls.pdb
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\Accord.Controls.xml
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\Accord.MachineLearning.pdb
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\Accord.MachineLearning.xml
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\Accord.Math.pdb
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\Accord.Math.xml
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\Accord.Statistics.pdb
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\Accord.Statistics.xml
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\AForge.xml
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\SlimDX.xml
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\ZedGraph.xml
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\bin\Release\AForge.Math.xml
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\obj\x86\Release\disinfection_tree.Form1.resources
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\obj\x86\Release\disinfection_tree.Properties.Resources.resources
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\obj\x86\Release\decision tree.csproj.GenerateResource.Cache
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\obj\x86\Release\disinfection tree.exe
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\disinfection tree\disinfection tree\obj\x86\Release\disinfection tree.pdb
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\desition tree\disinfection tree\obj\x86\Release\disinfection tree.exe
+C:\Users\cylonz\Documents\Visual Studio 2010\Projects\desition tree\disinfection tree\obj\x86\Release\disinfection tree.pdb
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\obj\x86\Release\disinfection tree.exe
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\obj\x86\Release\disinfection tree.pdb
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\Form1.resx
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\Form1.cs
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\Form1.Designer.cs
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\disinfection tree.exe
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\disinfection tree.pdb
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\Accord.Controls.dll
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\Accord.dll
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\Accord.MachineLearning.dll
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\Accord.Math.dll
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\Accord.Statistics.dll
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\AForge.dll
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\SlimDX.dll
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\ZedGraph.dll
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\AForge.Math.dll
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\Accord.pdb
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\Accord.xml
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\Accord.Controls.pdb
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\Accord.Controls.xml
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\Accord.MachineLearning.pdb
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\Accord.MachineLearning.xml
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\Accord.Math.pdb
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\Accord.Math.xml
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\Accord.Statistics.pdb
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\Accord.Statistics.xml
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\AForge.xml
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\SlimDX.xml
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\ZedGraph.xml
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\AForge.Math.xml
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\obj\x86\Release\decision tree.csprojResolveAssemblyReference.cache
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\obj\x86\Release\disinfection_tree.Form1.resources
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\obj\x86\Release\disinfection_tree.Properties.Resources.resources
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\obj\x86\Release\decision tree.csproj.GenerateResource.Cache
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\TreeGenerator.dll
+C:\Users\cylonz\Desktop\desition tree\disinfection tree\bin\Release\TreeGenerator.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\disinfection tree.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\disinfection tree.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Form1.resx
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Form1.cs
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Form1.Designer.cs
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\disinfection tree.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\disinfection tree.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\AForge.Math.dll
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.Controls.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.Controls.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.MachineLearning.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.MachineLearning.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.Math.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.Math.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.Statistics.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.Statistics.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\AForge.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\SlimDX.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\TreeGenerator.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\ZedGraph.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\AForge.Math.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\ResolveAssemblyReference.cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\disinfection_tree.Form1.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\disinfection_tree.Properties.Resources.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\GenerateResource.read.1.tlog
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\GenerateResource.write.1.tlog
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\disinfection tree.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\disinfection tree.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Form1.resx
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Form1.cs
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Form1.Designer.cs
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\disinfection tree.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\disinfection tree.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\AForge.Math.dll
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.Controls.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.Controls.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.MachineLearning.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.MachineLearning.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.Math.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.Math.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.Statistics.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.Statistics.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\AForge.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\SlimDX.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\TreeGenerator.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\ZedGraph.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\AForge.Math.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\disinfection_tree.Form1.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\disinfection_tree.Properties.Resources.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\decision tree.csprojResolveAssemblyReference.cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\decision tree.csproj.GenerateResource.Cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\disinfection tree.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\disinfection tree.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Form1.resx
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Form1.cs
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Form1.Designer.cs
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\disinfection tree.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\disinfection tree.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\AForge.Math.dll
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.Controls.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.Controls.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.MachineLearning.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.MachineLearning.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.Math.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.Math.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.Statistics.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\Accord.Statistics.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\AForge.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\SlimDX.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\TreeGenerator.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\ZedGraph.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\bin\Release\AForge.Math.xml
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\decision tree.csprojResolveAssemblyReference.cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\disinfection_tree.Form1.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\disinfection_tree.Properties.Resources.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_1 Decision Tree\decision tree2\desition tree\disinfection tree\obj\x86\Release\decision tree.csproj.GenerateResource.Cache

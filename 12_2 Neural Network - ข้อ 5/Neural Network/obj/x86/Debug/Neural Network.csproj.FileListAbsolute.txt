@@ -1,0 +1,29 @@
+C:\Users\Channarong.Du\documents\visual studio 2010\Projects\Neural Network\Neural Network\bin\Debug\Neural Network.exe
+C:\Users\Channarong.Du\documents\visual studio 2010\Projects\Neural Network\Neural Network\bin\Debug\Neural Network.pdb
+C:\Users\Channarong.Du\documents\visual studio 2010\Projects\Neural Network\Neural Network\obj\x86\Debug\Neural_Network.Form1.resources
+C:\Users\Channarong.Du\documents\visual studio 2010\Projects\Neural Network\Neural Network\obj\x86\Debug\Neural_Network.Properties.Resources.resources
+C:\Users\Channarong.Du\documents\visual studio 2010\Projects\Neural Network\Neural Network\obj\x86\Debug\Neural Network.csproj.GenerateResource.Cache
+C:\Users\Channarong.Du\documents\visual studio 2010\Projects\Neural Network\Neural Network\obj\x86\Debug\Neural Network.exe
+C:\Users\Channarong.Du\documents\visual studio 2010\Projects\Neural Network\Neural Network\obj\x86\Debug\Neural Network.pdb
+C:\Users\Channarong.Du\documents\visual studio 2010\Projects\Neural Network\Neural Network\obj\x86\Debug\Neural_Network.Input_Output_Pattern.resources
+C:\Users\Channarong.Du\Documents\Visual Studio 2010\Projects\Neural Network\Neural Network\obj\x86\Debug\Neural Network.csprojResolveAssemblyReference.cache
+C:\Users\Kiki Kung\Downloads\Compressed\Neural-Network\Neural Network\Neural Network\obj\x86\Debug\Neural Network.exe
+C:\Users\Kiki Kung\Downloads\Compressed\Neural-Network\Neural Network\Neural Network\obj\x86\Debug\Neural Network.pdb
+C:\Users\Kiki Kung\Downloads\Compressed\Neural-Network\Neural Network\Neural Network\bin\Debug\Neural Network.exe
+C:\Users\Kiki Kung\Downloads\Compressed\Neural-Network\Neural Network\Neural Network\bin\Debug\Neural Network.pdb
+C:\Users\Kiki Kung\Downloads\Compressed\Neural-Network\Neural Network\Neural Network\obj\x86\Debug\Neural Network.csprojResolveAssemblyReference.cache
+C:\Users\Kiki Kung\Downloads\Compressed\Neural-Network\Neural Network\Neural Network\obj\x86\Debug\Neural_Network.Form1.resources
+C:\Users\Kiki Kung\Downloads\Compressed\Neural-Network\Neural Network\Neural Network\obj\x86\Debug\Neural_Network.Input_Output_Pattern.resources
+C:\Users\Kiki Kung\Downloads\Compressed\Neural-Network\Neural Network\Neural Network\obj\x86\Debug\Neural_Network.Properties.Resources.resources
+C:\Users\Kiki Kung\Downloads\Compressed\Neural-Network\Neural Network\Neural Network\obj\x86\Debug\Neural Network.csproj.GenerateResource.Cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\1_58\ข้อ5 NN\วิสกร เสี่ยงวิฐาน\Neural Network - ข้อ 5\Neural Network\obj\x86\Debug\Neural Network.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\1_58\ข้อ5 NN\วิสกร เสี่ยงวิฐาน\Neural Network - ข้อ 5\Neural Network\obj\x86\Debug\Neural Network.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\1_58\ข้อ5 NN\วิสกร เสี่ยงวิฐาน\Neural Network - ข้อ 5\Neural Network\bin\Debug\Neural Network.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\1_58\ข้อ5 NN\วิสกร เสี่ยงวิฐาน\Neural Network - ข้อ 5\Neural Network\bin\Debug\Neural Network.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\1_58\ข้อ5 NN\วิสกร เสี่ยงวิฐาน\Neural Network - ข้อ 5\Neural Network\obj\x86\Debug\Neural Network.csprojResolveAssemblyReference.cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\1_58\ข้อ5 NN\วิสกร เสี่ยงวิฐาน\Neural Network - ข้อ 5\Neural Network\obj\x86\Debug\Neural_Network.Form1.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\1_58\ข้อ5 NN\วิสกร เสี่ยงวิฐาน\Neural Network - ข้อ 5\Neural Network\obj\x86\Debug\Neural_Network.Input_Output_Pattern.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\1_58\ข้อ5 NN\วิสกร เสี่ยงวิฐาน\Neural Network - ข้อ 5\Neural Network\obj\x86\Debug\Neural_Network.Properties.Resources.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\1_58\ข้อ5 NN\วิสกร เสี่ยงวิฐาน\Neural Network - ข้อ 5\Neural Network\obj\x86\Debug\Neural Network.csproj.GenerateResource.Cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\12_2 Neural Network - ข้อ 5\Neural Network\obj\x86\Debug\Neural Network.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\12_2 Neural Network - ข้อ 5\Neural Network\obj\x86\Debug\Neural Network.pdb

@@ -1,0 +1,32 @@
+c:\users\werewolf\documents\visual studio 2010\Projects\TestProgram\TestProgram\bin\Debug\TestProgram.exe
+c:\users\werewolf\documents\visual studio 2010\Projects\TestProgram\TestProgram\bin\Debug\TestProgram.pdb
+c:\users\werewolf\documents\visual studio 2010\Projects\TestProgram\TestProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\werewolf\documents\visual studio 2010\Projects\TestProgram\TestProgram\obj\x86\Debug\TestProgram.Form1.resources
+c:\users\werewolf\documents\visual studio 2010\Projects\TestProgram\TestProgram\obj\x86\Debug\TestProgram.Properties.Resources.resources
+c:\users\werewolf\documents\visual studio 2010\Projects\TestProgram\TestProgram\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\werewolf\documents\visual studio 2010\Projects\TestProgram\TestProgram\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\werewolf\documents\visual studio 2010\Projects\TestProgram\TestProgram\obj\x86\Debug\TestProgram.exe
+c:\users\werewolf\documents\visual studio 2010\Projects\TestProgram\TestProgram\obj\x86\Debug\TestProgram.pdb
+C:\Users\werewolf\documents\visual studio 2010\Projects\TestProgram\TestProgram\bin\Debug\TestProgram.exe.config
+C:\Users\werewolf\Desktop\Genetic\Genetic\TestProgram\bin\Debug\TestProgram.exe.config
+C:\Users\werewolf\Desktop\Genetic\Genetic\TestProgram\obj\x86\Debug\TestProgram.exe
+C:\Users\werewolf\Desktop\Genetic\Genetic\TestProgram\obj\x86\Debug\TestProgram.pdb
+C:\Users\werewolf\Desktop\Genetic\Genetic\TestProgram\bin\Debug\TestProgram.exe
+C:\Users\werewolf\Desktop\Genetic\Genetic\TestProgram\bin\Debug\TestProgram.pdb
+C:\Users\werewolf\Desktop\Genetic\Genetic\TestProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\werewolf\Desktop\Genetic\Genetic\TestProgram\obj\x86\Debug\TestProgram.Form1.resources
+C:\Users\werewolf\Desktop\Genetic\Genetic\TestProgram\obj\x86\Debug\TestProgram.Properties.Resources.resources
+C:\Users\werewolf\Desktop\Genetic\Genetic\TestProgram\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\werewolf\Desktop\Genetic\Genetic\TestProgram\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ArM\Desktop\Genetic\TestProgram\bin\Debug\TestProgram.exe.config
+C:\Users\ArM\Desktop\Genetic\TestProgram\obj\x86\Debug\TestProgram.exe
+C:\Users\ArM\Desktop\Genetic\TestProgram\obj\x86\Debug\TestProgram.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\Genetic\TestProgram\bin\Debug\TestProgram.exe.config
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\Genetic\TestProgram\obj\x86\Debug\TestProgram.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\Genetic\TestProgram\obj\x86\Debug\TestProgram.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\Genetic\TestProgram\bin\Debug\TestProgram.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\Genetic\TestProgram\bin\Debug\TestProgram.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\Genetic\TestProgram\obj\x86\Debug\TestProgram.csprojResolveAssemblyReference.cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\Genetic\TestProgram\obj\x86\Debug\TestProgram.Form1.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\Genetic\TestProgram\obj\x86\Debug\TestProgram.Properties.Resources.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\Genetic\TestProgram\obj\x86\Debug\TestProgram.csproj.GenerateResource.Cache

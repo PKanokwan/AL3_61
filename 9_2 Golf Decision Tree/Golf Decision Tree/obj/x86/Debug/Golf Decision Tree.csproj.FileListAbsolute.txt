@@ -1,0 +1,34 @@
+C:\Users\ArM\Desktop\Decision Tree\Golf Decision Tree\Golf Decision Tree\bin\Debug\Golf Decision Tree.exe
+C:\Users\ArM\Desktop\Decision Tree\Golf Decision Tree\Golf Decision Tree\bin\Debug\Golf Decision Tree.pdb
+C:\Users\ArM\Desktop\Decision Tree\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf_Decision_Tree.Form1.resources
+C:\Users\ArM\Desktop\Decision Tree\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf_Decision_Tree.Properties.Resources.resources
+C:\Users\ArM\Desktop\Decision Tree\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf Decision Tree.exe
+C:\Users\ArM\Desktop\Decision Tree\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf Decision Tree.pdb
+C:\Users\ArM\Desktop\Decision Tree\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ArM\Desktop\Decision Tree\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ArM\Desktop\Decision Tree\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Schwarzer\Downloads\Golf Decision Tree\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf Decision Tree.exe
+C:\Users\Schwarzer\Downloads\Golf Decision Tree\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf Decision Tree.pdb
+C:\Users\Schwarzer\Downloads\Golf Decision Tree\Golf Decision Tree\Golf Decision Tree\bin\Debug\Golf Decision Tree.exe
+C:\Users\Schwarzer\Downloads\Golf Decision Tree\Golf Decision Tree\Golf Decision Tree\bin\Debug\Golf Decision Tree.pdb
+C:\Users\Schwarzer\Downloads\Golf Decision Tree\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Schwarzer\Downloads\Golf Decision Tree\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf_Decision_Tree.Form1.resources
+C:\Users\Schwarzer\Downloads\Golf Decision Tree\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf_Decision_Tree.Properties.Resources.resources
+C:\Users\Schwarzer\Downloads\Golf Decision Tree\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Schwarzer\Downloads\Golf Decision Tree\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf Decision Tree.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf Decision Tree.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\Golf Decision Tree\Golf Decision Tree\bin\Debug\Golf Decision Tree.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\Golf Decision Tree\Golf Decision Tree\bin\Debug\Golf Decision Tree.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf_Decision_Tree.Form1.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf_Decision_Tree.Properties.Resources.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf Decision Tree.csprojResolveAssemblyReference.cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf Decision Tree.csproj.GenerateResource.Cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_2 Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf Decision Tree.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_2 Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf Decision Tree.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_2 Golf Decision Tree\Golf Decision Tree\bin\Debug\Golf Decision Tree.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_2 Golf Decision Tree\Golf Decision Tree\bin\Debug\Golf Decision Tree.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_2 Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf Decision Tree.csprojResolveAssemblyReference.cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_2 Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf_Decision_Tree.Form1.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_2 Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf_Decision_Tree.Properties.Resources.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_61\9_2 Golf Decision Tree\Golf Decision Tree\obj\x86\Debug\Golf Decision Tree.csproj.GenerateResource.Cache

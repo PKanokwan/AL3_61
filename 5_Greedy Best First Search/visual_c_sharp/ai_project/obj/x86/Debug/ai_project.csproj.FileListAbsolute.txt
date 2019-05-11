@@ -1,0 +1,11 @@
+E:\C#\ai_project\ai_project\bin\Debug\ai_project.exe
+E:\C#\ai_project\ai_project\bin\Debug\ai_project.pdb
+E:\C#\ai_project\ai_project\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#\ai_project\ai_project\obj\x86\Debug\ai_project.Form1.resources
+E:\C#\ai_project\ai_project\obj\x86\Debug\ai_project.Properties.Resources.resources
+E:\C#\ai_project\ai_project\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#\ai_project\ai_project\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#\ai_project\ai_project\obj\x86\Debug\ai_project.exe
+E:\C#\ai_project\ai_project\obj\x86\Debug\ai_project.pdb
+C:\Users\Noi\Desktop\ai_project\ai_project\obj\x86\Debug\ai_project.exe
+C:\Users\Noi\Desktop\ai_project\ai_project\obj\x86\Debug\ai_project.pdb

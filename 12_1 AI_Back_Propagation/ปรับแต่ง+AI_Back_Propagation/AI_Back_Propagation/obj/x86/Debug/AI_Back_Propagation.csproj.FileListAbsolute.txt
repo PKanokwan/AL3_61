@@ -1,0 +1,73 @@
+c:\users\pun\documents\visual studio 2010\Projects\AI_Back_Propagation\AI_Back_Propagation\bin\Debug\AI_Back_Propagation.exe
+c:\users\pun\documents\visual studio 2010\Projects\AI_Back_Propagation\AI_Back_Propagation\bin\Debug\AI_Back_Propagation.pdb
+c:\users\pun\documents\visual studio 2010\Projects\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Form1.resources
+c:\users\pun\documents\visual studio 2010\Projects\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Properties.Resources.resources
+c:\users\pun\documents\visual studio 2010\Projects\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.exe
+c:\users\pun\documents\visual studio 2010\Projects\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.pdb
+c:\users\pun\documents\visual studio 2010\Projects\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.About.resources
+c:\users\pun\documents\visual studio 2010\Projects\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Input_Output_Pattern.resources
+C:\Users\Pun\Documents\Visual Studio 2010\Projects\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.csprojResolveAssemblyReference.cache
+C:\Users\Pun\Documents\Visual Studio 2010\Projects\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.csproj.GenerateResource.Cache
+C:\Users\Pun\Documents\Visual Studio 2010\Projects\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Form2.resources
+C:\Users\Pun\Documents\Visual Studio 2010\Projects\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Form3.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\bin\Debug\AI_Back_Propagation.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\bin\Debug\AI_Back_Propagation.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.About.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Form1.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Form2.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Form3.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Input_Output_Pattern.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Properties.Resources.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.exe
+E:\ปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.pdb
+E:\ปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\bin\Debug\AI_Back_Propagation.exe
+E:\ปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\bin\Debug\AI_Back_Propagation.pdb
+E:\ปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.csprojResolveAssemblyReference.cache
+E:\ปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.About.resources
+E:\ปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Form1.resources
+E:\ปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Form2.resources
+E:\ปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Form3.resources
+E:\ปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Input_Output_Pattern.resources
+E:\ปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Properties.Resources.resources
+E:\ปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.csproj.GenerateResource.Cache
+E:\ปัญญาประดิษฐ์\โครงงานวิชาAI\นิวรอลเน้ตเวิร์คแบบหลายเลเยอร์\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Resources.Form5.resources
+C:\Users\mawik_000\Desktop\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.exe
+C:\Users\mawik_000\Desktop\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.pdb
+C:\Users\mawik_000\Desktop\AI_Back_Propagation\AI_Back_Propagation\bin\Debug\AI_Back_Propagation.exe
+C:\Users\mawik_000\Desktop\AI_Back_Propagation\AI_Back_Propagation\bin\Debug\AI_Back_Propagation.pdb
+C:\Users\mawik_000\Desktop\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.csprojResolveAssemblyReference.cache
+C:\Users\mawik_000\Desktop\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.About.resources
+C:\Users\mawik_000\Desktop\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Form1.resources
+C:\Users\mawik_000\Desktop\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Form3.resources
+C:\Users\mawik_000\Desktop\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Input_Output_Pattern.resources
+C:\Users\mawik_000\Desktop\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Properties.Resources.resources
+C:\Users\mawik_000\Desktop\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.csproj.GenerateResource.Cache
+D:\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.exe
+D:\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.pdb
+D:\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Form1.resources
+D:\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Form3.resources
+D:\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Input_Output_Pattern.resources
+D:\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Properties.Resources.resources
+D:\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\AI_Back_Propagation\AI_Back_Propagation\bin\Debug\AI_Back_Propagation.exe
+D:\AI_Back_Propagation\AI_Back_Propagation\bin\Debug\AI_Back_Propagation.pdb
+C:\Users\mawik_000\Desktop\งานอาจาน\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.exe
+C:\Users\mawik_000\Desktop\งานอาจาน\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.pdb
+C:\Users\mawik_000\Desktop\งานอาจาน\AI_Back_Propagation\bin\Debug\AI_Back_Propagation.exe
+C:\Users\mawik_000\Desktop\งานอาจาน\AI_Back_Propagation\bin\Debug\AI_Back_Propagation.pdb
+C:\Users\mawik_000\Desktop\งานอาจาน\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.csprojResolveAssemblyReference.cache
+C:\Users\mawik_000\Desktop\งานอาจาน\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Form1.resources
+C:\Users\mawik_000\Desktop\งานอาจาน\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Form3.resources
+C:\Users\mawik_000\Desktop\งานอาจาน\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Input_Output_Pattern.resources
+C:\Users\mawik_000\Desktop\งานอาจาน\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Properties.Resources.resources
+C:\Users\mawik_000\Desktop\งานอาจาน\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.csproj.GenerateResource.Cache
+C:\Users\mawik_000\Desktop\งานอาจาน\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.Form2.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\AI_Back_Propagation\ปรับแต่ง+AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\3_55\AI_Back_Propagation\ปรับแต่ง+AI_Back_Propagation\AI_Back_Propagation\obj\x86\Debug\AI_Back_Propagation.pdb

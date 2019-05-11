@@ -1,0 +1,31 @@
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\disinfection tree.exe
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\disinfection tree.pdb
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\obj\x86\Debug\disinfection_tree.Form1.resources
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\obj\x86\Debug\disinfection_tree.Properties.Resources.resources
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\obj\x86\Debug\disinfection tree.csproj.GenerateResource.Cache
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\obj\x86\Debug\disinfection tree.exe
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\obj\x86\Debug\disinfection tree.pdb
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\Accord.Controls.dll
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\Accord.dll
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\Accord.MachineLearning.dll
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\Accord.Math.dll
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\Accord.Statistics.dll
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\AForge.dll
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\SlimDX.dll
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\ZedGraph.dll
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\AForge.Math.dll
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\Accord.pdb
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\Accord.xml
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\Accord.Controls.pdb
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\Accord.Controls.xml
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\Accord.MachineLearning.xml
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\Accord.Math.pdb
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\Accord.Math.xml
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\Accord.Statistics.pdb
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\Accord.Statistics.xml
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\AForge.xml
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\SlimDX.xml
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\ZedGraph.xml
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\bin\Debug\AForge.Math.xml
+C:\Users\cylonz\documents\visual studio 2010\Projects\disinfection tree\disinfection tree\obj\x86\Debug\disinfection tree.csprojResolveAssemblyReference.cache

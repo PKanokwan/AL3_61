@@ -1,0 +1,28 @@
+c:\users\blackgem\documents\visual studio 2012\Projects\Genetic1\Genetic1\bin\Debug\Genetic1.exe.config
+c:\users\blackgem\documents\visual studio 2012\Projects\Genetic1\Genetic1\obj\Debug\Genetic1.csprojResolveAssemblyReference.cache
+c:\users\blackgem\documents\visual studio 2012\Projects\Genetic1\Genetic1\obj\Debug\Genetic1.Form1.resources
+c:\users\blackgem\documents\visual studio 2012\Projects\Genetic1\Genetic1\obj\Debug\Genetic1.Properties.Resources.resources
+c:\users\blackgem\documents\visual studio 2012\Projects\Genetic1\Genetic1\obj\Debug\Genetic1.csproj.GenerateResource.Cache
+c:\users\blackgem\documents\visual studio 2012\Projects\Genetic1\Genetic1\bin\Debug\Genetic1.exe
+c:\users\blackgem\documents\visual studio 2012\Projects\Genetic1\Genetic1\bin\Debug\Genetic1.pdb
+c:\users\blackgem\documents\visual studio 2012\Projects\Genetic1\Genetic1\obj\Debug\Genetic1.exe
+c:\users\blackgem\documents\visual studio 2012\Projects\Genetic1\Genetic1\obj\Debug\Genetic1.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Genetic Algorithm\Genetic1\Genetic1\bin\Debug\Genetic1.exe.config
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Genetic Algorithm\Genetic1\Genetic1\obj\Debug\Genetic1.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Genetic Algorithm\Genetic1\Genetic1\obj\Debug\Genetic1.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Genetic Algorithm\Genetic1\Genetic1\bin\Debug\Genetic1.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Genetic Algorithm\Genetic1\Genetic1\bin\Debug\Genetic1.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Genetic Algorithm\Genetic1\Genetic1\obj\Debug\ResolveAssemblyReference.cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Genetic Algorithm\Genetic1\Genetic1\obj\Debug\Genetic1.Form1.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Genetic Algorithm\Genetic1\Genetic1\obj\Debug\Genetic1.Properties.Resources.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Genetic Algorithm\Genetic1\Genetic1\obj\Debug\GenerateResource.read.1.tlog
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\Genetic Algorithm\Genetic1\Genetic1\obj\Debug\GenerateResource.write.1.tlog
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Genetic Algorithm\Genetic1\Genetic1\bin\Debug\Genetic1.exe.config
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Genetic Algorithm\Genetic1\Genetic1\obj\Debug\Genetic1.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Genetic Algorithm\Genetic1\Genetic1\obj\Debug\Genetic1.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Genetic Algorithm\Genetic1\Genetic1\bin\Debug\Genetic1.exe
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Genetic Algorithm\Genetic1\Genetic1\bin\Debug\Genetic1.pdb
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Genetic Algorithm\Genetic1\Genetic1\obj\Debug\Genetic1.csprojResolveAssemblyReference.cache
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Genetic Algorithm\Genetic1\Genetic1\obj\Debug\Genetic1.Form1.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Genetic Algorithm\Genetic1\Genetic1\obj\Debug\Genetic1.Properties.Resources.resources
+D:\thammakorn\โครงการสอน\สไลด์วิชาปัญญาประดิษฐ์\โครงงานวิชาAI\2_55\Genetic Algorithm\Genetic1\Genetic1\obj\Debug\Genetic1.csproj.GenerateResource.Cache
